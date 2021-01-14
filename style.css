@@ -39,3 +39,7 @@ a.style :hover{
     background-color: rgb(198, 198, 198);
     color:rgb(66, 66, 66);
 }
+img{
+    width: 100%;
+    height: auto;
+}
